@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Tablas y Cotas}{1}{}%
+\contentsline {paragraph}{Primos cercanos a $10^n$}{1}{}%
+\contentsline {paragraph}{Cantidad de primos menores que $10^n$}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Divisores}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Factoriales}{1}{}%
+\contentsline {section}{\numberline {2}Consejos}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Debugging}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Hitos de prueba}{1}{}%
