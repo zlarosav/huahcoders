@@ -4,7 +4,7 @@
 \contentsline {paragraph}{Primos cercanos a $10^n$}{1}{}%
 \contentsline {paragraph}{Cantidad de primos menores que $10^n$}{1}{}%
 \contentsline {subsection}{\numberline {2.1}Divisores}{1}{}%
-\contentsline {subsection}{\numberline {2.2}Factoriales}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Factoriales}{1}{}%
 \contentsline {section}{\numberline {3}Consejos}{2}{}%
 \contentsline {subsection}{\numberline {3.1}Debugging}{2}{}%
 \contentsline {subsection}{\numberline {3.2}Hitos de prueba}{2}{}%

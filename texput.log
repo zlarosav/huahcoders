@@ -1,21 +1,20 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.3.28)  28 MAR 2025 23:53
-entering extended mode
- restricted \write18 enabled.
- %&-line parsing enabled.
-**
+This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.3.28)  1 APR 2025 00:01
+ restricted system commands enabled.
+**notebook.tex
 
 ! Emergency stop.
-<*> 
-    
-End of file on the terminal!
+<*> notebook.tex
+                
+*** (job aborted, file error in nonstop mode)
 
- 
-Here is how much of TeX's memory you used:
- 3 strings out of 473523
- 20 string characters out of 5713662
- 391471 words of memory out of 5000000
- 23335 multiletter control sequences out of 15000+600000
- 558837 words of font info for 36 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 0i,0n,0p,27b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+
+Here is how much of LuaTeX's memory you used:
+ 5 strings out of 475506
+ 100000,552014 words of node,token memory allocated 270 words of node memory still in use:
+   1 hlist, 39 glue_spec nodes
+   avail lists: 2:12,3:3,4:1,5:1
+ 23133 multiletter control sequences out of 65536+600000
+ 14 fonts using 591679 bytes
+ 0i,0n,0p,0b,6s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!

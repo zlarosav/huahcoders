@@ -1,10 +1,7 @@
 This is LuaHBTeX, Version 1.21.0 (MiKTeX 25.3) (format=lualatex 2025.3.28)  1 APR 2025 00:01
  restricted system commands enabled.
- file:line:error style messages enabled.
-**c:/Users/Anthony/OneDrive/Escritorio/projects/HuahCoders/notebook/notebook.te
-x
-
-(c:/Users/Anthony/OneDrive/Escritorio/projects/HuahCoders/notebook/notebook.tex
+**notebook.tex
+(./notebook.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 Lua module: luaotfload 2024-12-03 v3.29 Lua based OpenType font support
@@ -748,10 +745,9 @@ File: l3backend-luatex.def 2024-05-08 L3 backend support: PDF output (LuaTeX)
 Inserting `l3color' in `luaotfload.parse_color'.
 \l__pdf_internal_box=\box115
 )
-(c:/Users/Anthony/OneDrive/Escritorio/projects/HuahCoders/notebook/build/notebo
-ok.aux)
-\openout1 = notebook.aux
+No file notebook.aux.
 
+\openout1 = notebook.aux
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 89.
@@ -768,7 +764,6 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 89.
 LaTeX Font Info:    ... okay on input line 89.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
 *geometry* verbose mode - [ preamble ] result:
@@ -831,22 +826,10 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 \c@lstlisting=\count333
 
-(c:/Users/Anthony/OneDrive/Escritorio/projects/HuahCoders/notebook/build/notebo
-ok.toc
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
-
-(C:/Users/Anthony/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
-
-(C:/Users/Anthony/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+No file notebook.toc.
 \tf@toc=\write4
 
 \openout4 = notebook.toc
-
 (../estructuras/../estructuras/estructuras.tex
 Overfull \hbox (12.99287pt too wide) in paragraph at lines 1--1
 |[] \TU/lmtt/m/n/24.88 Estructuras de Datos| 
@@ -867,6 +850,18 @@ File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <8> not available
 (Font)              Font shape `TU/lmtt/b/n' tried instead on input line 1.
 ))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 98.
+
+
+(C:/Users/Anthony/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 98.
+
+
+(C:/Users/Anthony/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
 Underfull \hbox (badness 7468) in paragraph at lines 98--105
 \TU/lmr/m/n/10 9999943 9999971 9999973 9999991 10000019 10000079
  []
@@ -877,31 +872,51 @@ Underfull \hbox (badness 7963) in paragraph at lines 106--123
 cmm/m/it/10 \OT1/cmr/m/n/10 (10[])$ \TU/lmr/m/n/10 = 4.118.054.813 ;
  []
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 171.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 171.
+
 [1{C:/Users/Anthony/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
 
-] [2]
+]
 
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 195.
+
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 195.
+
+[2] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-
-(c:/Users/Anthony/OneDrive/Escritorio/projects/HuahCoders/notebook/build/notebo
-ok.aux)
+(./notebook.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package lastpage Warning: Rerun to get the references right on input line 196.
+
 )
 
 Here is how much of LuaTeX's memory you used:
- 17474 strings out of 475506
- 745203,1144653 words of node,token memory allocated
- 569 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 8 attribute, 65 glue_spec,
- 8 attribute_list, 2 write nodes
-   avail lists: 1:1,2:10276,3:502,4:5752,5:20426,6:219,7:27805,8:18,9:40950,10:3
-1,11:2162
- 39938 multiletter control sequences out of 65536+600000
+ 17461 strings out of 475506
+ 745240,1144653 words of node,token memory allocated
+ 573 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 9 attribute, 65 glue_spec,
+ 9 attribute_list, 2 write nodes
+   avail lists: 1:1,2:10262,3:486,4:5744,5:20390,6:211,7:28260,8:18,9:40950,10:3
+1,11:2142
+ 39936 multiletter control sequences out of 65536+600000
  46 fonts using 3315743 bytes
- 108i,14n,101p,502b,923s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 108i,13n,101p,436b,923s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/users/anthony/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman
 10-italic.otf><c:/users/anthony/appdata/local/programs/miktex/fonts/opentype/pub
 lic/lm/lmmono8-regular.otf><c:/users/anthony/appdata/local/programs/miktex/fonts
@@ -919,7 +934,7 @@ rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Anthony/AppDat
 a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Users/Anth
 ony/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb
 >
-Output written on notebook.pdf (2 pages, 114788 bytes).
+Output written on notebook.pdf (2 pages, 113850 bytes).
 
 PDF statistics: 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
